@@ -1,5 +1,35 @@
 #+TITLE: Wallpapers
 
-Main sources:
-- Unsplash
-- UnixPorn ( reddit and discord )
+Hello !
+
+#+NAME: Disclaimer
+#+begin_note
+I do not own the rights to any of the wallpapers included in this
+repository except if otherwise stated (if my username is in the
+filename). I have tried to include the creator's name, and the media
+is stored here since it was all available freely online.
+
+If you are the creator/owner of certain such images and would like
+their removal, or to include other information, please do not hesitate
+to open an issue.
+#+end_note
+
+
+* Index
+- [[file:simple_desktops/][Simple Desktops]], taken from [[https://simpledesktops.com/][simpledesktops]].
+- [[file:wallpapers_focus/][Focus]], "weird" collection, for when I feel like I need some extra inspiration/motivation (?)
+- [[file:unsplash_field-wallpapers/][Unsplash Wallpapers]], taken from [[https://unsplash.com/][Unsplash]]. The images have not been
+  renamed since downloading so that the creator's username is up
+  there.
+- [[file:digital_abstract-wallpapers/][Digital Abstract Wallpapers]], mainly from [[https://www.reddit.com/r/unixporn/][r/unixporn]] (reddit and
+  related discord server). When I downloaded those I did not add a
+  source, feel free to open an issue if you know the creator and this
+  has to be updated.
+
+* What
+This is a directory used to store wallpapers I have used throughout
+the years in one place. Some points, not that anyone should care:
+- not all of them are here
+- not all of them here have been used
+- not all of them here are individually beautiful, but I like them in
+  total
